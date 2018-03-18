@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SYARAH_1202150249_MODUL4</string>
+    <string-array name="listNama">
+        <item>Ana</item>
+        <item>Nanda</item>
+        <item>Niken</item>
+        <item>Igo</item>
+        <item>Breda</item>
+        <item>Yuda</item>
+        <item>Anas</item>
+        <item>Nugroho</item>
+        <item>Bram</item>
+        <item>Mawar</item>
+    </string-array>
+</resources>
